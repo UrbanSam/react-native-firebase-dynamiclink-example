@@ -1,2 +1,2 @@
 # react-native-firebase-dynamiclink
-Integrate Firebase Invite and Receive Dynamic Link for React Native.
+Example of integrating Firebase Dynamic Link for React Native.
